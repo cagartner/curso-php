@@ -154,4 +154,11 @@ echo '<hr>';
 
 echo soma(10, 20);
 
+echo '<hr>';
+
+echo soma();
+
+
+
+
 
